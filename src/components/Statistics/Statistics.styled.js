@@ -9,7 +9,7 @@ export const StatisticsSection = styled.section`
 export const Title = styled.h2`
   font-size: 20px;
   font-weight: 700;
-  margin-bottom: 0;
+  margin-bottom: 20px;
   margin-top: 10px;
   display: flex;
   justify-content: center;
